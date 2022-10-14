@@ -1,2 +1,2 @@
-# Water-migration-nexus
-Files associated with Water Stress, International Migration and Development Nexus
+# Water-Migration Nexus
+This project aims to analyze the influence of water stress and development condition on the international migration of people
