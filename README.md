@@ -1,5 +1,6 @@
 # Water-Migration Nexus
 The main objectives of this project are as follows:
+
 • To identify the interactions between the water stress, development status, population density, GDP per capita, national rainfall index, and total population with access to safe drinking water in origin countries and how these interactions influence the international out-migration and in-migration.
 • To explore the similarities and differences between the origin and destination countries in water stress-related international migration and what are the policy relevance of these findings.
 This project includes the following tasks:
